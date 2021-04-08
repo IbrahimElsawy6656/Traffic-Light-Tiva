@@ -1,0 +1,1 @@
+"./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./Driverlib/GPIOA.obj" "./Driverlib/GPIOB.obj" "./Driverlib/Systick.obj" "./Driverlib/Timer0A.obj" "./Driverlib/Timer1A.obj" "./Driverlib/UART0.obj" "../tm4c123gh6pm.cmd" -llibc.a 
