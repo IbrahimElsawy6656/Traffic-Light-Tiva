@@ -19,4 +19,4 @@ we have used timer0, timer1 and systick also Port A and Port B for LEDs
 and switches and finally UART0 for sending the state of the system.
 
 
-PS: WE LOVE YOU GUYS!
+PS: WE LOVE YOU GUYS!sAXAxaxax
